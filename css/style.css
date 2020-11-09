@@ -187,6 +187,9 @@
   .position_figure {
     right: 0px;
   }
+ .heading{
+		font-size: 34px;
+	}
 }
 .figure_label {
   position: absolute;
