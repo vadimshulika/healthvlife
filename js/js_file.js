@@ -8,7 +8,7 @@ function counter1 (){
         	var result = a/(b/100*b/100);
         	result = result.toFixed(2);
         	if(result < 18){
-            	alert("Ваш индекс массы тела " + result + ". Вы худощавый");
+            	alert("Ваш индекс массы тела " + result + ". Вы худощавая");
         	}
 
         	if(result >= 18 && result < 24){
